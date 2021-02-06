@@ -12,5 +12,5 @@ sets responsive media elements: so that images and embeds scale with the browser
 
 ## Copyright and license
 
-Code copyright 2021 Dylan R Hewitt. Code released under [the MIT license](https://github.com/dreece-dev/m-reset-css/blob/master/LICENSE).
+Code copyright 2021 Dylan R Hewitt. Code released under [the MIT license](https://github.com/dreece-dev/m-reset-css/blob/main/LICENSE).
 
